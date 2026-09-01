@@ -1,2 +1,2 @@
-age = input("Enter your age: ")
-print("My Age Is :", age)
+clg = input("Enter your clg: ")
+print("My College Is :", clg)
