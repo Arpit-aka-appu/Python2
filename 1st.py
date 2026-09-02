@@ -1,0 +1,5 @@
+Sentence = input("Enter the sentence: ")
+print(Sentence.lower())
+print(Sentence.upper())
+print(Sentence.replace(" ", "_"))
+print(Sentence.split())
