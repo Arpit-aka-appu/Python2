@@ -1,0 +1,8 @@
+message = input("Enter your message ")
+message = message.replace( ":(()", "☹️")
+message = message.replace( ":(", "😶")
+message = message.replace( ":))", "😂")
+message = message.replace( ":)", "🙂")
+message = message.replace( ":D", "😭")
+message = message.replace( ":/", "🫤")
+print(message)
