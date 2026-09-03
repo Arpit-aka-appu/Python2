@@ -9,3 +9,7 @@ In branch no there are assignments
 In branch other we are going to do some work
 
 In branch project we try to build something
+
+Half of learning is done
+
+
