@@ -1,0 +1,8 @@
+# print all even numbers from 0 to 50
+num = 1
+while (num<=50):
+    if num % 2 == 0:
+        print(num)
+    num+=1
+
+
