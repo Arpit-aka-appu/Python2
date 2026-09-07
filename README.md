@@ -12,4 +12,6 @@ In branch project we try to build something
 
 Half of learning is done
 
+Now i will make my first project
+
 
